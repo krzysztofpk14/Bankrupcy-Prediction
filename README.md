@@ -79,11 +79,6 @@ The notebook concludes with a comparison of all trained models and identifies th
 
 ---
 
-## Notes
-
-* All preprocessing is done inside pipelines to avoid data leakage
-* The project is intended for educational and demonstration purposes
-
 # Authors
 * Wiktor Kapica
 * Krzysztof Kuba
